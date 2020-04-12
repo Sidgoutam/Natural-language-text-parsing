@@ -9,4 +9,7 @@ Next in the same python file type
 "nltk.download()"
 . A pop-up window appears where on clicking the download button, nltk will be downloaded.
 For more help with the code in details, use the link mentioned
-https://youtu.be/FLZvOKSCkxY 
+https://youtu.be/FLZvOKSCkxY.
+The above link helps in parsing the basic English language.
+This project deals with the hindi language. 
+
